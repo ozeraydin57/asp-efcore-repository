@@ -6,3 +6,4 @@ C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\obj\Debug\netcoreapp3.1\Da
 C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\obj\Debug\netcoreapp3.1\DataAccsess.dll
 C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\obj\Debug\netcoreapp3.1\DataAccsess.pdb
 C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\obj\Debug\netcoreapp3.1\DataAccsess.csproj.CoreCompileInputs.cache
+C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\obj\Debug\netcoreapp3.1\DataAccsess.csprojAssemblyReference.cache
