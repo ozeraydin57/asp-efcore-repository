@@ -1,0 +1,8 @@
+C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\bin\Debug\netcoreapp3.1\DataAccsess.deps.json
+C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\bin\Debug\netcoreapp3.1\DataAccsess.dll
+C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\bin\Debug\netcoreapp3.1\DataAccsess.pdb
+C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\obj\Debug\netcoreapp3.1\DataAccsess.AssemblyInfoInputs.cache
+C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\obj\Debug\netcoreapp3.1\DataAccsess.AssemblyInfo.cs
+C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\obj\Debug\netcoreapp3.1\DataAccsess.dll
+C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\obj\Debug\netcoreapp3.1\DataAccsess.pdb
+C:\Users\OA-WORK\source\repos\OANetEfCore\DataAccsess\obj\Debug\netcoreapp3.1\DataAccsess.csproj.CoreCompileInputs.cache

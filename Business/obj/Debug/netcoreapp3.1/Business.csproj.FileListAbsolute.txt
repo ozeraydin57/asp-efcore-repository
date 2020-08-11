@@ -1,0 +1,12 @@
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\bin\Debug\netcoreapp3.1\DataAccsess.dll
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\bin\Debug\netcoreapp3.1\DataAccsess.pdb
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\OA-WORK\source\repos\OANetEfCore\Business\obj\Debug\netcoreapp3.1\Business.pdb
